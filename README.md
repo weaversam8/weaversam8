@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 My name is [Sam Weaver](https://samweaver.com)! I'm a student and a software engineer based out of Raleigh, North Carolina! 🌳
 

@@ -8,6 +8,7 @@ I try to contribute back to open source (usually in the form of issues, bug repo
 
 I currently maintain:
 - [relaypro-open/YarnRunner-Python](https://github.com/relaypro-open/YarnRunner-Python) - A Python runner for compiled [Yarn Spinner](https://yarnspinner.dev/) story files.
+- [relaypro-open/imetrics](https://github.com/relaypro-open/imetrics) - A lightweight Erlang application for gathering metrics. Provides a Prometheus-compatible API endpoint.
 
 <!--
 **weaversam8/weaversam8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
